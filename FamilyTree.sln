@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTree", "FamilyTree\FamilyTree.csproj", "{D6E5A3E0-958F-4198-AB55-C8EB82F283DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTree.Tests", "FamilyTree.Tests\FamilyTree.Tests.csproj", "{6B7910A5-08B3-4336-85C9-DF93D7F933ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E5A3E0-958F-4198-AB55-C8EB82F283DA}.Debug|x86.ActiveCfg = Debug|x86
+		{D6E5A3E0-958F-4198-AB55-C8EB82F283DA}.Debug|x86.Build.0 = Debug|x86
+		{D6E5A3E0-958F-4198-AB55-C8EB82F283DA}.Release|x86.ActiveCfg = Release|x86
+		{D6E5A3E0-958F-4198-AB55-C8EB82F283DA}.Release|x86.Build.0 = Release|x86
+		{6B7910A5-08B3-4336-85C9-DF93D7F933ED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6B7910A5-08B3-4336-85C9-DF93D7F933ED}.Debug|x86.Build.0 = Debug|Any CPU
+		{6B7910A5-08B3-4336-85C9-DF93D7F933ED}.Release|x86.ActiveCfg = Release|Any CPU
+		{6B7910A5-08B3-4336-85C9-DF93D7F933ED}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

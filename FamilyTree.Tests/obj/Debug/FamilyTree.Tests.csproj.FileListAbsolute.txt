@@ -1,0 +1,10 @@
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree.Tests/bin/Debug/FamilyTree.Tests.dll
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree.Tests/bin/Debug/FamilyTree.Tests.pdb
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree.Tests/bin/Debug/FamilyTree.exe
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree.Tests/bin/Debug/nunit.framework.dll
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree.Tests/bin/Debug/FamilyTree.pdb
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree.Tests/bin/Debug/nunit.framework.xml
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree.Tests/obj/Debug/FamilyTree.Tests.csprojResolveAssemblyReference.cache
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree.Tests/obj/Debug/FamilyTree.Tests.csproj.CoreCompileInputs.cache
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree.Tests/obj/Debug/FamilyTree.Tests.dll
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree.Tests/obj/Debug/FamilyTree.Tests.pdb

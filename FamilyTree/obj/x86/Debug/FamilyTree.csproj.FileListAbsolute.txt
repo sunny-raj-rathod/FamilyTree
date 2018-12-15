@@ -1,0 +1,6 @@
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree/bin/Debug/FamilyTree.exe
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree/bin/Debug/FamilyTree.pdb
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree/obj/x86/Debug/FamilyTree.csproj.CoreCompileInputs.cache
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree/obj/x86/Debug/FamilyTree.exe
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree/obj/x86/Debug/FamilyTree.pdb
+/Users/sunnyrajrathod/Desktop/FamilyTree/FamilyTree/obj/x86/Debug/FamilyTree.csprojResolveAssemblyReference.cache
